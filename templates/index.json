@@ -57,6 +57,7 @@
     },
     "1630259272738c3188": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1630259272738c3188-0": {
           "type": "heading",
@@ -133,7 +134,7 @@
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "image_text": {
