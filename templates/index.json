@@ -36,7 +36,7 @@
         "image": "shopify:\/\/shop_images\/hero4_0e5128c9-2389-43cd-8f06-0d828db9e37c.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "adapt_height_first_image": false
       }
     },
