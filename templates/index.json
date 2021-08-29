@@ -55,6 +55,43 @@
         "show_vendor": false
       }
     },
+    "1630259272738c3188": {
+      "type": "rich-text",
+      "blocks": {
+        "1630259272738c3188-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Experience sunshine inside",
+            "heading_size": "medium"
+          }
+        },
+        "1630259272738c3188-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1630259272738c3188-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630259272738c3188-0",
+        "1630259272738c3188-1",
+        "1630259272738c3188-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
@@ -86,13 +123,14 @@
       "settings": {
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
+    "1630259272738c3188",
     "image_text"
   ]
 }
