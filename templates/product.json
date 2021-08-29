@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Northern Light Therapy",
             "text_style": "uppercase"
@@ -65,48 +66,6 @@
             "page": "",
             "icon": "truck"
           }
-        },
-        "d2523e9a-af70-413f-9ccd-cf3b06b5f833": {
-          "type": "text",
-          "settings": {
-            "text": "Features",
-            "text_style": "uppercase"
-          }
-        },
-        "2f6e06e7-f98b-4a41-a5af-24634a5e9d10": {
-          "type": "text",
-          "settings": {
-            "text": "3 intensity settings from 5,500LUX to 10,000LUX",
-            "text_style": "body"
-          }
-        },
-        "0b3a0845-3a42-4ecf-92ed-0806f480f4af": {
-          "type": "text",
-          "settings": {
-            "text": "1-60 minute timer",
-            "text_style": "body"
-          }
-        },
-        "769a0640-7004-47f4-bb41-b539eaec2428": {
-          "type": "text",
-          "settings": {
-            "text": "UV-free",
-            "text_style": "body"
-          }
-        },
-        "6d098b2f-5e0f-49c3-b794-217f4303df0c": {
-          "type": "text",
-          "settings": {
-            "text": "50,000 hours lifespan",
-            "text_style": "body"
-          }
-        },
-        "d414b41e-fc61-4e8b-907d-e39ef4c9a09f": {
-          "type": "text",
-          "settings": {
-            "text": "1 year hassle-free warranty",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
@@ -119,13 +78,7 @@
         "buy_buttons",
         "description",
         "share",
-        "edd1213a-5549-43ab-b854-a638411381a0",
-        "d2523e9a-af70-413f-9ccd-cf3b06b5f833",
-        "2f6e06e7-f98b-4a41-a5af-24634a5e9d10",
-        "0b3a0845-3a42-4ecf-92ed-0806f480f4af",
-        "769a0640-7004-47f4-bb41-b539eaec2428",
-        "6d098b2f-5e0f-49c3-b794-217f4303df0c",
-        "d414b41e-fc61-4e8b-907d-e39ef4c9a09f"
+        "edd1213a-5549-43ab-b854-a638411381a0"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -142,10 +95,37 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "1630260712ba5c39d4": {
+      "type": "rich-text",
+      "blocks": {
+        "1630260712ba5c39d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FEATURES",
+            "heading_size": "small"
+          }
+        },
+        "1630260712ba5c39d4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>3 intensity settings from 5,500LUX to 10,000LUX<br\/>1-60 minute timer<br\/>UV-free<br\/>50,000 hours lifespan<br\/>1-year hassle-free warranty<br\/>Vertical or horizontal positioning<br\/>Generous 8 inch x 5.5 inch surface area <br\/>No fluorescent bulbs required and energy saving.<br\/>25cm X 19cm X 3.5cm<br\/>Comes included with mains charger for Europe (240V)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630260712ba5c39d4-0",
+        "1630260712ba5c39d4-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1630260712ba5c39d4"
   ]
 }
