@@ -6,7 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Be the best YOU. All year"
+          }
+        },
+        "a36eef3a-6c19-4837-b10a-197974ed2e18": {
+          "type": "text",
+          "settings": {
+            "text": "A 10,000 Lux Light Therapy Lamp designed for daily use to improve your mood and raise your energy levels."
           }
         },
         "button": {
@@ -23,6 +29,7 @@
       },
       "block_order": [
         "heading",
+        "a36eef3a-6c19-4837-b10a-197974ed2e18",
         "button"
       ],
       "settings": {
@@ -35,6 +42,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "",
