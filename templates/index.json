@@ -61,7 +61,7 @@
         "1630259272738c3188-0": {
           "type": "heading",
           "settings": {
-            "heading": "Why Northern Light Therapy?",
+            "heading": "Why an NLT Lamp?",
             "heading_size": "medium"
           }
         },
@@ -90,6 +90,50 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "16302595946af5e706": {
+      "type": "multicolumn",
+      "blocks": {
+        "16302595946af5e706-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sun.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16302595946af5e706-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaf.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16302595946af5e706-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lighting.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16302595946af5e706-0",
+        "16302595946af5e706-1",
+        "16302595946af5e706-2"
+      ],
+      "settings": {
+        "title": "Why an NLT Lamp?",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "image_text": {
@@ -131,6 +175,7 @@
     "image_banner",
     "featured_products",
     "1630259272738c3188",
+    "16302595946af5e706",
     "image_text"
   ]
 }
