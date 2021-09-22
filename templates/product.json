@@ -82,6 +82,15 @@
             "page": "",
             "icon": "none"
           }
+        },
+        "83b3045d-b3d4-43e8-84f3-f81a34470ecf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do light therapy lamps work?",
+            "content": "<p>Yes. Clinical evidence shows that Light Therapy is effective in reducing or eliminating the symptoms of seasonal affective disorder such as low mood and energy. Read more at \"<a href=\"https:\/\/www.nordiclighttherapy.com\/blogs\/news\/sad-and-light-therapy-lamps\">do light therapy lamps work<\/a>\"<\/p>",
+            "page": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -96,7 +105,8 @@
         "share",
         "64310026-c42e-4d1a-921d-14d59d3fc3ce",
         "edd1213a-5549-43ab-b854-a638411381a0",
-        "023d00ac-45b3-43de-8e11-f4eba483a417"
+        "023d00ac-45b3-43de-8e11-f4eba483a417",
+        "83b3045d-b3d4-43e8-84f3-f81a34470ecf"
       ],
       "settings": {
         "enable_sticky_info": true,
