@@ -212,6 +212,81 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "163233761703a2cc79": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "163233761703a2cc79-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "163233761703a2cc79-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "163233761703a2cc79-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163233761703a2cc79-0",
+        "163233761703a2cc79-1",
+        "163233761703a2cc79-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1632337862bd6b2129": {
+      "type": "featured-blog",
+      "blocks": {
+        "1632337862bd6b2129-0": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false
+          }
+        },
+        "1632337862bd6b2129-1": {
+          "type": "summary",
+          "settings": {
+          }
+        },
+        "1632337862bd6b2129-2": {
+          "type": "link",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1632337862bd6b2129-0",
+        "1632337862bd6b2129-1",
+        "1632337862bd6b2129-2"
+      ],
+      "settings": {
+        "heading": "Everything about Light Therapy Lamps",
+        "blog": "news",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "soft_background": false
+      }
     }
   },
   "order": [
@@ -220,6 +295,8 @@
     "1630259272738c3188",
     "16302595946af5e706",
     "image_text",
-    "1632337558090b7143"
+    "1632337558090b7143",
+    "163233761703a2cc79",
+    "1632337862bd6b2129"
   ]
 }
