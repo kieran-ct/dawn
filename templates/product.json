@@ -68,16 +68,16 @@
         "edd1213a-5549-43ab-b854-a638411381a0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping",
+            "heading": "Shipping & Returns",
             "content": "<p>Free Shipping in Sweden<\/p><p>£5 \/ €5 in EU<\/p><p>€15 rest of world<\/p><p>1 year warranty<\/p>",
             "page": "",
-            "icon": "truck"
+            "icon": "none"
           }
         },
         "023d00ac-45b3-43de-8e11-f4eba483a417": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How large is this light",
+            "heading": "How large is this light?",
             "content": "<p>25cm X 19cm X 3.5cm which is smaller than an A4 piece of paper<\/p>",
             "page": "",
             "icon": "none"
