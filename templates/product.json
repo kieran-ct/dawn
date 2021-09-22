@@ -98,6 +98,7 @@
     },
     "1630260712ba5c39d4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1630260712ba5c39d4-0": {
           "type": "heading",
@@ -149,7 +150,7 @@
         "1632335378c196cee7-2"
       ],
       "settings": {
-        "heading": "Everything about Light Therapy Lamps",
+        "heading": "More about Light Therapy Lamps",
         "blog": "news",
         "post_limit": 3,
         "show_view_all": true,
