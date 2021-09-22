@@ -179,21 +179,21 @@
           "type": "column",
           "settings": {
             "title": "Sophia M.",
-            "text": "<p>This was exactly what I was after to get me through the dark days. I started to feel the effects after only a couple of days and now it is just part of my routine.<\/p>"
+            "text": "<p><em>This was exactly what I was after to get me through the dark days. I started to feel the effects after only a couple of days and now it is just part of my routine.<\/em><\/p>"
           }
         },
         "1632337558090b7143-1": {
           "type": "column",
           "settings": {
-            "title": "Kieran C",
-            "text": "<p>I use this every morning while having my coffee and it doesn't intrude on my space. It's like having a small tablet computer next to me. Quick delivery too!<\/p>"
+            "title": "Kieran C.",
+            "text": "<p><em>I use this every morning while having my coffee and it doesn't intrude on my space. It's like having a small tablet computer next to me. Quick delivery too!<\/em><\/p>"
           }
         },
         "1632337558090b7143-2": {
           "type": "column",
           "settings": {
-            "title": "Jack S",
-            "text": "<p>I've tried different light therapy lamp products but this is the best one I've found. I start on the lowest setting and then increase as I get used to the light.<\/p>"
+            "title": "Jack S.",
+            "text": "<p><em>I've tried different light therapy lamp products but this is the best one I've found. I start on the lowest setting and then increase as I get used to the light.<\/em><\/p>"
           }
         }
       },
@@ -208,7 +208,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
