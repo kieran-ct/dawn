@@ -121,11 +121,47 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1632335378c196cee7": {
+      "type": "featured-blog",
+      "blocks": {
+        "1632335378c196cee7-0": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false
+          }
+        },
+        "1632335378c196cee7-1": {
+          "type": "summary",
+          "settings": {
+          }
+        },
+        "1632335378c196cee7-2": {
+          "type": "link",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1632335378c196cee7-0",
+        "1632335378c196cee7-1",
+        "1632335378c196cee7-2"
+      ],
+      "settings": {
+        "heading": "Everything about Light Therapy Lamps",
+        "blog": "news",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "soft_background": false
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "1630260712ba5c39d4"
+    "1630260712ba5c39d4",
+    "1632335378c196cee7"
   ]
 }
