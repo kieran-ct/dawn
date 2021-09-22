@@ -100,6 +100,15 @@
             "page": "",
             "icon": "check_mark"
           }
+        },
+        "815a7aac-5a08-4aff-989a-a37192c461e0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long should I use my light therapy lamp for?",
+            "content": "<p>We recommend you start with 20 minutes a day but you can increase it as you want.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -116,7 +125,8 @@
         "edd1213a-5549-43ab-b854-a638411381a0",
         "023d00ac-45b3-43de-8e11-f4eba483a417",
         "83b3045d-b3d4-43e8-84f3-f81a34470ecf",
-        "c82e5d3e-e1d8-4c2a-80f4-500220ab6ffc"
+        "c82e5d3e-e1d8-4c2a-80f4-500220ab6ffc",
+        "815a7aac-5a08-4aff-989a-a37192c461e0"
       ],
       "settings": {
         "enable_sticky_info": true,
