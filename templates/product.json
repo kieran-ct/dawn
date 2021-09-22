@@ -109,6 +109,15 @@
             "page": "",
             "icon": "none"
           }
+        },
+        "3fd7667c-f545-440e-a8ce-5c80c9e38d5f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where should I position my light therapy lamp?",
+            "content": "<p>We recommend daily use at arm's length (about 50cm) for 30 minutes a day. Read more at <a href=\"https:\/\/www.nordiclighttherapy.com\/blogs\/news\/how-to-use-a-light-therapy-lamp\">how to use a light therapy lamp<\/a>. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
         }
       },
       "block_order": [
@@ -126,7 +135,8 @@
         "023d00ac-45b3-43de-8e11-f4eba483a417",
         "83b3045d-b3d4-43e8-84f3-f81a34470ecf",
         "c82e5d3e-e1d8-4c2a-80f4-500220ab6ffc",
-        "815a7aac-5a08-4aff-989a-a37192c461e0"
+        "815a7aac-5a08-4aff-989a-a37192c461e0",
+        "3fd7667c-f545-440e-a8ce-5c80c9e38d5f"
       ],
       "settings": {
         "enable_sticky_info": true,
