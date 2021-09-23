@@ -71,7 +71,9 @@
     },
     "next_slide": "Bild till höger",
     "previous_slide": "Bild till vänster",
-    "loading": "Laddar ..."
+    "loading": "Laddar ...",
+    "skip_to_product_info": "Hoppa till produktinformation",
+    "of": "av"
   },
   "blogs": {
     "article": {
@@ -131,6 +133,12 @@
         "pick_up_unavailable_at_html": "Det går för närvarande inte att få hämtning på <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Det gick inte att ladda hämtningstillgänglighet",
         "refresh": "Uppdatera"
+      },
+      "media": {
+        "open_featured_media": "Öppna Utvalda media i Gallery View",
+        "open_media": "Öppna media {{ index }} I Gallery View",
+        "play_model": "Spela 3D Viewer",
+        "play_video": "Spela upp video"
       }
     },
     "modal": {
