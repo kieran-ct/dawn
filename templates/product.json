@@ -52,12 +52,6 @@
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "64310026-c42e-4d1a-921d-14d59d3fc3ce": {
           "type": "text",
           "settings": {
@@ -129,7 +123,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
         "64310026-c42e-4d1a-921d-14d59d3fc3ce",
         "edd1213a-5549-43ab-b854-a638411381a0",
         "023d00ac-45b3-43de-8e11-f4eba483a417",
@@ -156,10 +149,10 @@
     },
     "1630260712ba5c39d4": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1630260712ba5c39d4-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "FEATURES",
             "heading_size": "small"
@@ -167,14 +160,25 @@
         },
         "1630260712ba5c39d4-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>3 intensity settings from 5,500LUX to 10,000LUX<br\/>1-60 minute timer<br\/>UV-free<br\/>50,000 hours lifespan<br\/>1-year hassle-free warranty<br\/>Vertical or horizontal positioning<br\/>Generous 8 inch x 5.5 inch surface area <br\/>No fluorescent bulbs required and energy saving.<br\/>25cm X 19cm X 3.5cm<br\/>Comes included with mains charger for Europe (240V)<\/p>"
+          }
+        },
+        "7013365a-4082-4a65-8001-5b310c2db9d9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Buy now",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "1630260712ba5c39d4-0",
-        "1630260712ba5c39d4-1"
+        "1630260712ba5c39d4-1",
+        "7013365a-4082-4a65-8001-5b310c2db9d9"
       ],
       "settings": {
         "color_scheme": "background-1",
