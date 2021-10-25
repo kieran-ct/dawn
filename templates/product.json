@@ -181,6 +181,47 @@
         "full_width": true
       }
     },
+    "163518510385464c69": {
+      "type": "multicolumn",
+      "blocks": {
+        "163518510385464c69-0": {
+          "type": "column",
+          "settings": {
+            "title": "Sophia M.",
+            "text": "<p><em>This was exactly what I was after to get me through the dark days. I started to feel the effects after only a couple of days and now it is just part of my routine.<\/em><\/p>"
+          }
+        },
+        "163518510385464c69-1": {
+          "type": "column",
+          "settings": {
+            "title": "Kieran C.",
+            "text": "<p><em>I use this every morning while having my coffee and it doesn't intrude on my space. It's like having a small tablet computer next to me. Quick delivery too!<\/em><\/p>"
+          }
+        },
+        "163518510385464c69-2": {
+          "type": "column",
+          "settings": {
+            "title": "Jack S.",
+            "text": "<p><em>I've tried different light therapy lamp products but this is the best one I've found. I start on the lowest setting and then increase as I get used to the light.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163518510385464c69-0",
+        "163518510385464c69-1",
+        "163518510385464c69-2"
+      ],
+      "settings": {
+        "title": "Customer reviews",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1632335378c196cee7": {
       "type": "featured-blog",
       "blocks": {
@@ -221,6 +262,7 @@
     "main",
     "product-recommendations",
     "1630260712ba5c39d4",
+    "163518510385464c69",
     "1632335378c196cee7"
   ]
 }
